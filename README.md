@@ -7,7 +7,8 @@ git clone --recursive https://github.com/jooooow/ctime.git
 cd ctime
 mkdir build
 cd build
-make ..
+cmake ..
+make
 sudo make install
 ```
 

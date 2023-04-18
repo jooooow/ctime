@@ -8,3 +8,7 @@ add_executable(ctime ctime.cpp)
 target_link_libraries(ctime PUBLIC timelib)
 
 install(TARGETS ctime DESTINATION bin)
+
+message("BUILD_SHARED_LIBS=${BUILD_SHARED_LIBS}")
+
+

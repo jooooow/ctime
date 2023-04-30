@@ -17,4 +17,3 @@ sudo make install
 $ ctime   
 2023-04-15 23:21:57.250693 JST (Saturday)
 ```
-
